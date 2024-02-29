@@ -1,4 +1,4 @@
-# Lab 6: News Article Classification
+# Lab 7: News Article Classification
 
 ### Introduction
 
