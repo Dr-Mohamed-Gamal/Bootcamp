@@ -258,8 +258,5 @@ Rewrite this story in the style of Shakespeare
 <p>&nbsp;</p>
 
 
-## Note
-All of the sentences and stories - about birds, puppies, kittens, donkeys, and shakespeare - were generated using chatGPT.
-
 <p>&nbsp;</p>
 
