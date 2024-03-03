@@ -160,16 +160,8 @@ The descriptions above provide a good introduction to model parameters.  However
 
 # General advice
 
-### 3.1 Try different models
+### 3 Try different models
 
 The watsonx.ai documentation describes the available models: [watsonx.ai models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-models.html?context=wx&audience=wdp)
 
 <img src="../images/3.png" width="80%" alt="prompt" />
-
-### 3.2 Check your use case
-
-LLMs have great potential, but they have no logic, no knowledge, and no domain expertise.  Some use cases are a better fit than others: LLMs excel at tasks that involve generating generic text or common code patterns and transforming given input.
-
-If your prompt includes all the tips and best practices discussed here, yet you're not getting good results from any of the models, consider whether your use case might be one that LLMs just cannot handle well.
-
-For example, although we can get decent results for simple arithmetic, LLMs cannot generally do math well: [Researchers find that large language models struggle with math](https://venturebeat.com/business/researchers-find-that-large-language-models-struggle-with-math/)
