@@ -182,9 +182,3 @@ In watsonx.ai, we are interacting directly with smaller LLMs (3-20 billion param
 The smaller, simpler models in watsonx.ai are more challenging for potential hackers. Using many small models rather than a single large one such as ChatGPT creates a wider distribution of sensitive entry points. Each small language model is much harder to manipulate due their limited functionality and high level of prompt engineering that was required to perform their primary tasks. They don’t have the wide range of functions such as ChatGPT.  As programmers know, putting all your resources into a single point of failure is unwise.  It's far better to decompose your solution for security, scalability and control.
 
 That's right.  For security, smaller is better. On top of security benefits, there are computational improvements with using smaller, lighter weight models as well. However we're getting ahead of ourselves.  Let's first interact more with watsonx.ai's LLMs to better understand and learn how to make them respond the way we need.
-
-# Further learning
-
-- [OpenAI prompt intro](https://platform.openai.com/docs/guides/completion/prompt-design)
-- [OpenAI prompt engineering tutorial](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
-- [co:here prompt engineering tutorial](https://docs.cohere.ai/docs/prompt-engineering)
