@@ -123,9 +123,6 @@ Perform any task (eg. summarization, Q&A, classification) with other types of co
 <p>&nbsp;</p>
 
 
-## Note
-All of the sentences and stories about birds, puppies, kittens, donkeys were generated using chatGPT.
-
 <p>&nbsp;</p>
 
 

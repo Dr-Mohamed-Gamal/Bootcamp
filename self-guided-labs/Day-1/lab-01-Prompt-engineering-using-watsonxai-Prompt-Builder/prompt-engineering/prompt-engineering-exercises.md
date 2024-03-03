@@ -115,12 +115,7 @@ designing solutions, and collaborating with teammates — in real time or asynch
 Using LLMs is pretty easy: prompt the model with text (eg. "I took my dog") and the model 
 generates text as output (eg. "for a walk").
 ```
-```
-## Hall of shame: when LLMs go wrong
-Even the creators of LLMs cannot always fully anticipate or explain these models' output: 
-[ChatGPT's creators can’t figure out why it won’t talk about Trump](https://www.semafor.com/
-article/02/03/2023/how-chatgpt-inadvertently-learned-to-avoid-talking-about-trump)
-```
+
 
 See: [Example answer](prompt-engineering-exercise-answers.md#2-rewrite)
 
@@ -479,10 +474,6 @@ that ultimately led to their heartbreaking separation.
 See: [Example answer](prompt-engineering-exercise-answers.md#12-write-like-shakespeare)
 
 <p>&nbsp;</p>
-
-
-## Note
-All of the sentences and stories - about birds, puppies, kittens, donkeys, and shakespeare - were generated using chatGPT.
 
 <p>&nbsp;</p>
 

@@ -91,9 +91,6 @@ Answer questions about this topic from the Cloud Pak for Data docs: <a href="htt
 
 
 
-## Note
-All of the sentences and stories about birds, puppies, kittens, donkeys were generated using chatGPT.
-
 <p>&nbsp;</p>
 
 

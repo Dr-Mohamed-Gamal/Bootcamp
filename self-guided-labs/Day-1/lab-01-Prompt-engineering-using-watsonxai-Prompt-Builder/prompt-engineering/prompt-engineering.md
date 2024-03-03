@@ -31,8 +31,6 @@
 
 **Not a chatbot**
 
-Solutions like chatGPT are more than LLMs.  The underlying models have been fine-tuned, the OpenAI teams have spent a lot of time refining the solution, and there is a chatbot interface between users and the LLMs.
-
 In BAM, we are interacting directly with the models.  BAM is not a chatbot interface.  Just specifying an instruction or question rarely produces a good result:
 
 <img src="../images/list-ideas-01.png" width="80%" alt="prompt" />
@@ -176,8 +174,3 @@ For example, although we can get decent results for simple arithmetic, LLMs cann
 
 <p>&nbsp;</p>
 
-
-# Further learning
-- [OpenAI prompt intro](https://platform.openai.com/docs/guides/completion/prompt-design)
-- [OpenAI prompt engineering tutorial](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
-- [co:here prompt engineering tutorial](https://docs.cohere.ai/docs/prompt-engineering)
