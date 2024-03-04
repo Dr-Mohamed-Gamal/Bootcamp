@@ -8,8 +8,8 @@
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | 30 mins  | Lab 0: [Setup Your Laptop Environment](./self-guided-labs/Day-1/lab-0-laptop-environment-setup)                                     |  
 | 60 mins  | Lab 1: [Prompt Engineering Using watsonxai](./self-guided-labs/Day-1/lab-01-Prompt-engineering-using-watsonxai-Prompt-Builder)                                     |
-| 60 mins  | Lab 2: [Advanced Prompt Engineering with watsonx.ai](./self-guided-labs/Day-1/lab-02-Advanced-Prompt-Engineering-with-watsonx-ai)                         |  
-| 30 mins  | Lab 3: [Prompt Tuning for Classification](./self-guided-labs/Day-1/lab-03-Prompt-Tuning-for-Classification  ) |                 | 
+| 60 mins  | Lab 2: [Advanced Prompt Engineering with watsonx.ai](./self-guided-labs/Day-1/lab-02-Advanced-Prompt-Engineering-with-watsonx-ai.ai)                         |  
+| 30 mins  | Lab 3: [Prompt Tuning for Classification](./self-guided-labs/Day-1/lab-03-Prompt-Tuning-for-Classification%20%20) |                 | 
 
 ### Day 2
 
