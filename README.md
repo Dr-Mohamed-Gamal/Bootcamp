@@ -1,5 +1,6 @@
 # Aramco Watsonx Bootcamp. Dammam - KSA (20-21 May 2024)
 ![alt text](https://github.com/Dr-Mohamed-Gamal/Bootcamp/tree/main/aramco.png)
+![screenshot](https://github.com/Dr-Mohamed-Gamal/Bootcamp/tree/main/images/aramco.png)
 ## Agenda
 
 
