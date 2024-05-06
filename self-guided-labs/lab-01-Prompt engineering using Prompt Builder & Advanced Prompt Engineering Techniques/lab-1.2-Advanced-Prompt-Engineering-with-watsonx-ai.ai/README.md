@@ -1,4 +1,4 @@
-# Lab 2-Advanced-Prompt-Engineering-with-watsonx-ai
+# Lab 1.2-Advanced-Prompt-Engineering-with-watsonx-ai
 
 ### Introduction
 
