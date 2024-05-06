@@ -1,4 +1,4 @@
-# Lab 1 : Introduction to Prompt Engineering
+# Lab 1.1 : Introduction to Prompt Engineering
 
 ### Complete the following exercises
 1. [Basics of Prompt Engineering](./prompt-engineering/prompt-engineering-basics.md)
