@@ -1,6 +1,5 @@
 ![screenshot](./images/aramco.png)
-# Aramco Watsonx Bootcamp. 
-# Dammam - KSA (20-21 May 2024)
+# Aramco Watsonx Bootcamp - KSA (20-21 May 2024)
 ## Agenda
 
 
