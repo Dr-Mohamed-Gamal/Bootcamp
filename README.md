@@ -16,6 +16,4 @@
 
 
 
-### Questions?
-- For any questions don't hesitate to contact [Dr. Mohamed Gamal ](mailto:mohamed.gamal@ibm.com).
 
