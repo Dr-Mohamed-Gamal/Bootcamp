@@ -1,5 +1,5 @@
 # Pre-Requisites for Attendees
-It is expected that Boot Camp attendees are already familiar with the topics covered in the videos below. Attendees should have 1 years experience programming in Python and 1 year in data science. 
+It is expected that Bootcamp attendees are already familiar with the topics covered in the videos below. Attendees should have 1 years experience programming in Python and 1 year in data science. 
 
 **Subscribe to the Generative AI series on Your Learning**
 https://yourlearning.ibm.com/channel/CNL_IEC_10346620
