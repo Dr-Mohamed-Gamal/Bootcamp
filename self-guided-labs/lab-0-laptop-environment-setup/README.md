@@ -74,6 +74,18 @@ You will need your IBM Cloud API key to authenticate the Watson Machine Learning
 
 ![api-key.png](images/api-key.png)
 
+#### Initialise watsonx.ai
+- Navigate to the burger menu on the left, open the panel and click `Resource list`.
+- Expand the group `AI/Machine Learning` and select the Watson Studio instance
+
+![resource-list.png](images/resource-list.png)
+
+- Launch Watson Studio in IBM watsonx.
+- Let it initialise and then exit.
+
+![watsonx-init.png](images/watsonx-init.png)
+![wx-initialised.png](images/wx-initialised.png)
+
 ### 3: Clone the workshop's Github repo <a id="3-clone-the-workshops-github-repo"></a>
 If you're a Github pro then you can directly clone this wastonx.ai workshop repo. Otherwise we recommend downloading and installing the [Github Desktop](https://desktop.github.com/) and then cloning this watsonx.ai workshop repo. Here are instructions on [how to clone a repository using Github Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop).
 
